@@ -1,6 +1,8 @@
 # Stock-Analysis-Challenge
 Challenge Module 2. Data Analytics TEC Bootcamp
 
+**Note: Please check in the file the tab "All Stocks AnalysisCHALLENGE". That´s where I displayed the task for this Challenge. The other tabs are what I worked through the Module 2.**
+
 ## Overview of the project
 The idea is to help Steve get fast information in stock prices for his parents to know information about the whole stock markets that includes volumen traded and returns.
 
